@@ -1,0 +1,46 @@
+body{
+    font-family: 'Amatic SC', cursive;
+
+}
+.navStyle a{
+    color: rgb(255, 255, 255)!important;
+    text-transform: uppercase;
+    font-size: medium;
+  font-weight: bolder;
+
+}
+.navStyle{
+    height: 10vh;
+    background-color:rgba(241, 105, 128, 0.726)!important;
+}
+.spaceNav{
+    color: transparent;
+    width: 70%;
+}
+
+.carrou{
+
+ margin-left: 10%;
+ margin-bottom: 30%;
+}
+
+   
+.navStyle a:hover{
+    color: black!important;
+}
+
+.barraPink {
+  background-color:rgba(241, 105, 128, 0.726)!important ;
+    display:flex;
+    justify-content: center;
+    background-color: #d1d1d4;
+    margin-top: 3%;
+  }
+  
+  .spaceBarra {
+    margin-top: 5%; 
+  }
+  .card-carrou{
+    margin-bottom: 10%!important;
+
+  }

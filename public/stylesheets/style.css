@@ -1,0 +1,115 @@
+
+body{
+  font-family: 'Amatic SC', cursive;
+  width: 100%;
+}
+.carrousellProduct{
+  width: 500px;
+  height: 500px;
+  margin-top: 8% !important;
+  margin-left: 30%!important;
+  background-color:  rgba(241, 105, 128, 0.726);
+  justify-content: center;
+}
+.dataSeller{
+  border: 1px solid black;
+  background-color: gray;
+  width: 100px;
+  height: 50px;
+}
+.formRegister{
+  margin-left: 25%;
+  color: black;
+  margin-top: 5%!important;
+}
+.textBold{
+  font-weight: bold;
+  font-size: 5rem;
+}
+
+
+.textCard{
+  align-items: center;
+  margin-left: 20%;
+  margin-top: 10%;
+}
+.btnlog{
+  border: 1px solid black!important;
+}
+.btnlog:hover{
+background-color: rgba(241, 105, 128, 0.726);
+font-style: italic;
+}
+.btnlogsize{
+  width: 100px;
+  background-color: rgb(238, 117, 137);
+}
+.carrou{
+  width: 500px;
+  height: 200px;
+  margin-top: 5%;
+  display: flex;
+}
+.description{
+  height: 70px;
+}
+.productCard{
+ margin: 20px 5% ;
+  justify-content: center;
+ 
+}
+.anchoseller{
+  width: 30%!important;
+margin-left: 35%;
+}
+.title{
+  font-size: 5rem;
+  font-weight: bold;
+  margin-top: 10%;
+text-align: center;
+}
+footer{
+  margin-top:5%;
+}
+.column{
+ margin-left: 15%;
+ margin-right: 10%;
+  
+}
+.column2{
+  margin-left: 5%;
+  margin-right: 5%;
+   
+ }
+ .space{
+  margin-left: 15%!important;
+ }
+.btn-delete{
+  color: white!important;
+  background-color: blue!important;
+  width: 100px;
+}
+.btn-edit{
+  color: white!important;
+  background-color: green!important;
+  width: 100px;
+}
+.btn-delete:hover{
+  background-color: rgb(214, 15, 15)!important;
+  width: 100px;
+}
+.btn-edit:hover{
+  background-color: rgb(36, 142, 168)!important;
+  width: 100px;
+}
+.desplegable{
+  margin-left: 5%;
+}
+.btn-drop{
+  background-color:rgba(241, 105, 128, 0.726)!important ;
+  color: black!important;
+}
+.btn-drop:hover{
+  background-color:rgba(196, 15, 45, 0.726)!important ;
+  border: 1px solid black;
+}
